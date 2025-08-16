@@ -1,0 +1,35 @@
+# Title: AeroBotics Global - Nature of Operations Report
+Date: 16-08-2025 - Time: 03:27:54
+
+## 1. Background:
+AeroBotics Global is an educational enterprise dedicated to providing robotics and coding programmes for children and students. The company operates primarily from its physical location in Docklands, Melbourne, Australia, whilst also offering a robust suite of online learning opportunities. The core purpose of AeroBotics Global is to deliver STEM-integrated education, equipping young individuals with hands-on experience in real-world robotics and coding to prepare them for future study and employment in technology-driven fields.
+
+The company's current operational model encompasses a variety of structured programmes. These include After School Programmes, typically eight weeks in duration, and more intensive Holiday Programmes/Workshops, which run over two days. Additionally, AeroBotics Global offers Online Private Classes and Personalised Courses, with flexible durations ranging from eight to sixty-four hours. Programmes are delivered in both in-person and online formats. The curriculum is application-based, designed to foster problem-solving skills and innovative thinking, covering subjects such as foundational and advanced robotics, game coding, and programming languages like Java and Python. A key characteristic of their methodology is component-based learning, where students construct their own robots using supplied DIY kits, with a robot typically included for students to take home. All educational content is aligned with the Victorian Curriculum, and the teaching staff are certified professionals, holding relevant children checks.
+
+AeroBotics Global's educational philosophy centres on inspiring students to embrace innovation and understand the practical applications of Science, Technology, Engineering, and Mathematics within the evolving landscape of robotics and artificial intelligence. They aim to cultivate future problem-solvers and leaders by encouraging out-of-the-box thinking and real-life application of concepts. However, the provided data does not contain specific details regarding the company's founding date or any discernible historical milestones, focusing instead on its current educational offerings and forward-looking vision.
+
+## 2. Products & Services:
+* **Robotics and coding education programmes for children**: delivered in-person and online as after-school courses, holiday workshops, private classes, and school eLearning, focusing on hands-on robot building with take-home kits; risk notes include the necessity for robust child safeguarding and Working with Children Checks for educators, logistical challenges related to shipping physical robot kits, and potential financial exposure due to their money-back guarantee.
+* **Professional engineering consulting services**: encompassing robotics, automation, artificial intelligence, mechanical design, product development, Internet of Things (IoT), and research and development, including market research, feasibility studies, and prototype testing; risk notes primarily concern significant exposure to professional indemnity claims for design or advice errors, the complex management of intellectual property rights, and general client satisfaction risks inherent in bespoke, early-stage project work.
+
+## 3. Location Details: 
+### a. Address: 1507/401 Docklands Dr, Docklands Melbourne 3008 - City: Docklands - State: Victoria - Country: Australia
+### b. Satellite image:
+![Satellite Image](satellite_images\aerobotics_global_satellite.png)
+### c. Findings: 
+Satellite Image Analysis Report: AeroBotics Global at 1507/401 Docklands Dr, Docklands Melbourne 3008
+
+1.  **Flood Risk Assessment:**
+    The property is situated directly adjacent to a substantial body of water, forming part of a marina and larger harbour system. This direct waterfront location inherently places the property in an area with potential exposure to water-related risks. The visible ground level appears to be only slightly elevated above the water line, suggesting the property is located within a low-lying coastal or estuarine area. While no immediate signs of flooding or standing water are discernible within the property's immediate vicinity, its proximity to the water body and apparent low elevation indicate an elevated inherent flood risk from storm surges, tidal events, or exceptionally heavy rainfall causing water levels to rise.
+
+2.  **Building Condition Analysis:**
+    The analysis focuses primarily on the building identified as 401 Docklands Dr (Marina Towers) and its immediate surrounding structures, which appear to be part of a modern commercial and residential development.
+
+    *   **Roof Condition**: The roof of the primary building (Marina Towers, the distinctive rounded building with green elements) appears to be a well-maintained green roof system, incorporating significant landscaping. No overt signs of discolouration, ponding water, significant debris accumulation, or visible damage are evident on this roof. Other adjacent buildings feature mostly flat roofs, some with light-coloured surfaces, which also appear to be in good order without visible signs of widespread degradation, significant debris, or obvious patching. Rooftop mechanical equipment, where visible, appears neatly arranged and maintained.
+    *   **Structural Integrity**: The visible exterior of the buildings, including the primary building, appears to be in good structural condition. The facades are clean, and there are no discernible signs of cracks, significant render/cladding damage, leaning, or other indications of structural distress from this aerial perspective. The large glass window elements on many buildings appear intact. The overall impression is of modern, well-constructed properties.
+    *   **Site Condition**: The general state of the surrounding property is excellent. The roads and pedestrian pathways appear well-paved and clean. Landscaped areas, including a notable green space adjacent to the primary building and other planted areas, are well-maintained and free of unkempt vegetation. Car parking areas are clearly marked and appear orderly. There is no visible accumulation of refuse, excessive debris, or other potential hazards within the immediate vicinity of the property or the broader visible development. The marina itself is well-organised, with boats moored neatly and the waterfront promenade appearing clean and accessible.
+
+3.  **Disclaimer:**
+    This report is based solely on the visual information available in the provided satellite imagery, current at the time the image was captured. It does not account for sub-surface conditions, internal building conditions, recent changes, or any non-visible risks such as plumbing issues, electrical faults, or environmental contamination. A comprehensive on-site inspection by qualified professionals is essential for a thorough and accurate risk assessment for insurance underwriting purposes.
+## 4. Assumptions:
+It is assumed that the LLM correctly identified the property and its boundaries.
